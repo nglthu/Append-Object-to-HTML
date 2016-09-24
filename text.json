@@ -1,0 +1,18 @@
+var education = {
+	"school": [{
+			"name": "A",
+			"city": "B",
+			"degree": "Bachelor",
+			"major": ["Computer Science", "French"]
+
+		}, {
+			"name": "A2",
+			"city": "B2",
+			"degree": "Bachelor",
+			"major": ["informatics"]
+		}
+
+	]
+
+
+};
